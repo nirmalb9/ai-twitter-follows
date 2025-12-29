@@ -1,0 +1,9 @@
+twikit==2.1.3
+pandas==2.2.3
+python-dotenv==1.0.1
+networkx==3.4.2
+matplotlib==3.9.3
+seaborn==0.13.2
+jupyter==1.1.1
+notebook==7.3.1
+tqdm==4.67.1

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:docs.x.com)",
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(playwright install:*)",
+      "Bash(./venv/bin/python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
